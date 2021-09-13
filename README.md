@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @priyamdas01 aka Priyam Das
+- 👋 Hi, I’m @priyamdas01
 - 👀 I’m interested in everything related to programming, IT, and computers in general
 - 🌱 I’m currently learning Angular Framework
 - 💞️ I’m looking to collaborate on any type of project.
